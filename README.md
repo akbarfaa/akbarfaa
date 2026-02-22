@@ -45,7 +45,7 @@
 
 <h3 align="center">Game</h3>
 <div align="center">
-  <img alt="pacman contribution game" src="https://raw.githubusercontent.com/akbarfaa/akbarfaa/output/pacman-contribution-graph.svg?v=1" />
+  <img alt="pacman contribution game" src="https://pacman.abozanona.me?username=akbarfaa&theme=dracula" />
   <img alt="snake contribution game" src="https://raw.githubusercontent.com/akbarfaa/akbarfaa/output/snake.svg?v=1" />
 </div>
 
