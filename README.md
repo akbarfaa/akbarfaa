@@ -56,3 +56,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akbarfaa&theme=dracula" height="150" alt="languages graph" />
 </div>
 
+<br />
+
+<h3 align="center">Aktivitas Terbaru</h3>
+<div>
+  
+<b>Repos Terbaru</b>
+
+<!-- recent_repos:start -->
+- Belum ada data
+<!-- recent_repos:end -->
+
+<br />
+
+<b>PR Terakhir</b>
+
+<!-- recent_prs:start -->
+- Belum ada data
+<!-- recent_prs:end -->
+
+</div>
+
