@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akbarfaa&theme=dracula&hide_border=false&cache_seconds=1800&v=1" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=akbarfaa&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false&cache_seconds=1800&v=1" height="150" alt="trophy graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbarfaa&theme=dracula" height="150" alt="profile details graph" />
 </div>
 
 <br />
@@ -52,7 +52,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbarfaa&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800&v=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarfaa&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800&v=1" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akbarfaa&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akbarfaa&theme=dracula" height="150" alt="languages graph" />
 </div>
 
