@@ -19,6 +19,11 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+      - name: move pacman svg to dist
+        run: |
+          mkdir -p dist
+          if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg dist/pacman-contribution-graph.svg; fi
+          if [ -f pacman-contribution-graph-dark.svg ]; then mv pacman-contribution-graph-dark.svg dist/pacman-contribution-graph-dark.svg; fi
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
