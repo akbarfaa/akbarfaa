@@ -64,7 +64,12 @@
 <b>Repos Terbaru</b>
 
 <!-- recent_repos:start -->
-- Belum ada data
+- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
+- <a href="https://github.com/akbarfaa/ai-stream-inspector">ai-stream-inspector</a> — Open-source CLI + SDK for inspecting AI streams: timestamps, event types, token 
+- <a href="https://github.com/akbarfaa/Akbar-Fadhila">Akbar-Fadhila</a>
+- <a href="https://github.com/akbarfaa/happy-valentine">happy-valentine</a>
+- <a href="https://github.com/akbarfaa/website-valentine">website-valentine</a>
+- <a href="https://github.com/akbarfaa/devops-project-gp1">devops-project-gp1</a>
 <!-- recent_repos:end -->
 
 <br />
@@ -72,7 +77,7 @@
 <b>PR Terakhir</b>
 
 <!-- recent_prs:start -->
-- Belum ada data
+- <a href="https://github.com/supabase/postgres-meta/pull/1044">feat(types): add bigint support for PostgreSQL int8 (64-bit integer)</a> — <a href="https://github.com/supabase/postgres-meta">supabase/postgres-meta</a>
 <!-- recent_prs:end -->
 
 </div>
