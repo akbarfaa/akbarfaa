@@ -64,11 +64,11 @@
 <b>Repos Terbaru</b>
 
 <!-- recent_repos:start -->
+- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/AplikasiBelajarAlamInteraktif-">AplikasiBelajarAlamInteraktif-</a> — Website Multimedia Interaktif (Belajar Alam/Nature)
 - <a href="https://github.com/akbarfaa/AplikasiAlfabetInteraktif">AplikasiAlfabetInteraktif</a> — Website Multimedia Interaktif (Belajar Alfabet)
 - <a href="https://github.com/akbarfaa/BaReezta">BaReezta</a> — Website Multimedia Interaktif (Periklanan FnB)
 - <a href="https://github.com/akbarfaa/perpusatakaan-interaktif">perpusatakaan-interaktif</a>
-- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/ai-stream-inspector">ai-stream-inspector</a> — Open-source CLI + SDK for inspecting AI streams: timestamps, event types, token 
 <!-- recent_repos:end -->
 
