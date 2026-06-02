@@ -64,8 +64,8 @@
 <b>Repos Terbaru</b>
 
 <!-- recent_repos:start -->
-- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/SAFER-FDS">SAFER-FDS</a>
+- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/Museum-Indonesia-Interaktif">Museum-Indonesia-Interaktif</a>
 - <a href="https://github.com/akbarfaa/7-Keajaiban-Dunia-Interaktif">7-Keajaiban-Dunia-Interaktif</a>
 - <a href="https://github.com/akbarfaa/AplikasiAlfabetInteraktif">AplikasiAlfabetInteraktif</a> — Website Multimedia Interaktif (Belajar Alfabet)
