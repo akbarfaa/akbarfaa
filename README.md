@@ -64,12 +64,12 @@
 <b>Repos Terbaru</b>
 
 <!-- recent_repos:start -->
+- <a href="https://github.com/akbarfaa/RootFacts-ai-sayur-react">RootFacts-ai-sayur-react</a>
 - <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/aplikasi-multimedia-interaktif-belajar-angka">aplikasi-multimedia-interaktif-belajar-angka</a>
 - <a href="https://github.com/akbarfaa/aplikasi-belajar-berhitung-interaktif">aplikasi-belajar-berhitung-interaktif</a>
 - <a href="https://github.com/akbarfaa/Museum-Sejarah-Indonesia-Digital-Interaktif-">Museum-Sejarah-Indonesia-Digital-Interaktif-</a>
 - <a href="https://github.com/akbarfaa/sistem-distribusi-logistik">sistem-distribusi-logistik</a>
-- <a href="https://github.com/akbarfaa/aplikasi-wisata-indonesia-interaktif">aplikasi-wisata-indonesia-interaktif</a>
 <!-- recent_repos:end -->
 
 <br />
