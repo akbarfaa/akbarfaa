@@ -64,8 +64,8 @@
 <b>Repos Terbaru</b>
 
 <!-- recent_repos:start -->
-- <a href="https://github.com/akbarfaa/SAFER-FDS">SAFER-FDS</a>
 - <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
+- <a href="https://github.com/akbarfaa/SAFER-FDS">SAFER-FDS</a>
 - <a href="https://github.com/akbarfaa/Eksperimen_SML_Akbar-Fadhila">Eksperimen_SML_Akbar-Fadhila</a>
 - <a href="https://github.com/akbarfaa/Workflow-CI">Workflow-CI</a>
 - <a href="https://github.com/akbarfaa/RootFacts-ai-sayur-react">RootFacts-ai-sayur-react</a>
