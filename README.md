@@ -64,9 +64,9 @@
 <b>Repos Terbaru</b>
 
 <!-- recent_repos:start -->
-- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/SAFER-FDS-PORTAL">SAFER-FDS-PORTAL</a>
 - <a href="https://github.com/akbarfaa/SAFER-FDS-CORE">SAFER-FDS-CORE</a>
+- <a href="https://github.com/akbarfaa/akbarfaa">akbarfaa</a> — Akbar Fadhila Profile
 - <a href="https://github.com/akbarfaa/Museum-Sejarah-Indonesia-Digital-Interaktif-">Museum-Sejarah-Indonesia-Digital-Interaktif-</a>
 - <a href="https://github.com/akbarfaa/SAFER-FDS">SAFER-FDS</a>
 - <a href="https://github.com/akbarfaa/Eksperimen_SML_Akbar-Fadhila">Eksperimen_SML_Akbar-Fadhila</a>
