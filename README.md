@@ -77,7 +77,7 @@
 <b>PR Terakhir</b>
 
 <!-- recent_prs:start -->
-- <a href="https://github.com/supabase/postgres-meta/pull/1044">feat(types): add bigint support for PostgreSQL int8 (64-bit integer)</a> — <a href="https://github.com/supabase/postgres-meta">supabase/postgres-meta</a>
+- Tidak ada data
 <!-- recent_prs:end -->
 
 </div>
